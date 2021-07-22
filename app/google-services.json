@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "654171966535",
+    "firebase_url": "https://ministop-final-project-4071c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ministop-final-project-4071c",
+    "storage_bucket": "ministop-final-project-4071c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654171966535:android:e6996b37f04bd4143af562",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.mssv18110050.ministop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654171966535-1f1odhceuvldsdrtt3kj08ntn0sib1go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSpcw_i359neL4RGW42tLR2fVAtRxrS4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654171966535-1f1odhceuvldsdrtt3kj08ntn0sib1go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654171966535:android:d4e56111676201cd3af562",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.mssv18110050.ministop_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654171966535-1f1odhceuvldsdrtt3kj08ntn0sib1go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSpcw_i359neL4RGW42tLR2fVAtRxrS4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654171966535-1f1odhceuvldsdrtt3kj08ntn0sib1go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
